@@ -7,6 +7,6 @@ int main()
   {
     printf("%d\t", i);
   }
-  printf("The value of i outside the loop: %d", i);
+  printf("\nThe value of i outside the loop: %d", i);
   return 0;
 }

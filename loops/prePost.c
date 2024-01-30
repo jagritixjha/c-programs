@@ -8,7 +8,7 @@ int main()
   printf("The answer = %d\n", ans);
 
   x = 1;
-  printf("%d %d %d %d", ++x, x++, --x, x--);
+  printf("%d %d %d %d", ++x, x++, --x, x--); // R to L associativity
 
   return 0;
 }
