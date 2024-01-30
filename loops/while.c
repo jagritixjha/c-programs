@@ -2,10 +2,11 @@
 
 int main()
 {
-  int i;
+  int i, n;
   printf("enter the no.");
-  scanf("%d", &i);
-  while (i <= 5)
+  scanf("%d", &n);
+  i = 0;
+  while (i <= n)
   {
     printf("i = %d\n", i);
     i++;
