@@ -2,13 +2,14 @@
 
 int main()
 {
+  // increment & decrement operators
+
   int x = 1, y = 3, ans;
 
   ans = x++ + ++y + ++x + ++x;
   printf("The answer = %d\n", ans);
 
   x = 1;
-  printf("%d %d %d %d", ++x, x++, --x, x--); // R to L associativity
-
+  printf("%d %d %d %d", ++x, x++, --x, x--);
   return 0;
 }

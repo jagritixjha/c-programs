@@ -1,3 +1,5 @@
+//  program to demonstrate value of i outside the 'for loop' in different conditions.
+
 #include <stdio.h>
 
 int main()

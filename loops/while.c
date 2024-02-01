@@ -1,9 +1,11 @@
+//  program to demonstrate value of i outside the 'while loop'.
+
 #include <stdio.h>
 
 int main()
 {
   int i, n;
-  printf("enter the no.");
+  printf("enter the no. ");
   scanf("%d", &n);
   i = 0;
   while (i <= n)

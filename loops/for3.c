@@ -1,3 +1,5 @@
+//  program to demonstrate value of i outside the 'for loop' in different conditions.
+
 #include <stdio.h>
 
 int main()
@@ -7,6 +9,6 @@ int main()
   {
     printf("%d\t", i);
   }
-  printf("\nThe value of i outside the loop: %d", i);
+  printf("\nThe value of i outside the \'for loop\': %d", i);
   return 0;
 }

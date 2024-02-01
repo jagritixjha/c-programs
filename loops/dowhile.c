@@ -1,3 +1,5 @@
+//  program to demonstrate value of i outside the 'do while loop' in different conditions.
+
 #include <stdio.h>
 
 void case1();
@@ -8,7 +10,7 @@ int main()
 {
   case1();
   case2();
-  // case3();   //++i
+  case3(); //++i
   return 0;
 }
 
@@ -20,7 +22,7 @@ void case1()
   {
     printf("%d \t", i++);
   } while (i <= 5);
-  printf("\nThe value of i outside the while = %d\n", i);
+  printf("\nThe value of i outside the do while = %d\n", i);
 }
 
 void case2()
@@ -31,7 +33,7 @@ void case2()
   {
     printf("%d \t", i++);
   } while (i <= 5);
-  printf("\nThe value of i outside the while = %d\n", i);
+  printf("\nThe value of i outside the do while = %d\n", i);
 }
 
 void case3()
@@ -42,5 +44,5 @@ void case3()
   {
     printf("%d \t", ++i);
   } while (i <= 5);
-  printf("\nThe value of i outside the while = %d", i);
+  printf("\nThe value of i outside the do while = %d", i);
 }
