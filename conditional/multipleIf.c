@@ -1,3 +1,5 @@
+// mathematical operations using multiple if conditions
+
 #include <stdio.h>
 
 int main()
@@ -22,6 +24,10 @@ int main()
   if (ch == 3)
   {
     printf("%d * %d = %d", a, b, (a * b));
+  }
+  if (ch > 3)
+  {
+    printf("invalid choice!!");
   }
   return 0;
 }

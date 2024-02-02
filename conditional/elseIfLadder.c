@@ -1,3 +1,5 @@
+// mathematical operations using multiple if conditions
+
 #include <stdio.h>
 
 int main()
