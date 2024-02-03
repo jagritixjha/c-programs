@@ -1,22 +1,18 @@
-#include <stdio.h> 
+// Addition of two numbers by taking input from user.
 
-int main(int argc, char const *argv[])
+#include <stdio.h>
+
+int main()
 {
-  int a, b, mynum = 16;
-  
-  printf("%d\n", mynum);
+  int a, b;
 
-  printf("Enter number a\n");
+  printf("Enter number a: ");
   scanf("%d", &a);
 
-  printf("Enter number b\n");
+  printf("Enter number b: ");
   scanf("%d", &b);
 
-  printf("The Sum is %d\n", a+b);
+  printf("The Sum is %d\n", a + b);
 
   return 0;
 }
-
-
-
-

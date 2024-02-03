@@ -1,3 +1,5 @@
+// Demonstartion arithemetic operations.
+
 #include <stdio.h>
 
 int main()
@@ -10,7 +12,6 @@ int main()
   printf("Modulus = %d\n", x % y);
   printf("Increment = %d\n", ++x);
   printf("Decrement = %d\n", --x);
-  printf("%d", sizeof(int));
-
+  printf("Size of int : %d", sizeof(int));
   return 0;
 }
