@@ -1,10 +1,12 @@
+// program to find average of array elements
+
 #include <stdio.h>
 #include <conio.h>
 void main()
 {
   int a[50], i, n;
   float sum, average;
-  printf("2227010701049\n");
+
   printf("Enter the number of elements: ");
   scanf("%d", &n);
 

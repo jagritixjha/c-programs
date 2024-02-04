@@ -1,9 +1,9 @@
 #include <stdio.h>
-#include <conio.h>
+
 int main()
 {
   int i, N;
-  printf("Enter a positive integer N:");
+  printf("Enter a positive integer N: ");
   scanf("%d", &N);
 
   printf("Odd numbers from 1 to %d are:\n", N);
@@ -11,7 +11,7 @@ int main()
   {
     if (i % 2 != 0)
     {
-      printf("%d", i);
+      printf("%d\t", i);
     }
   }
   return 0;
