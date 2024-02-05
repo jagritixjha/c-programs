@@ -1,3 +1,4 @@
+// Program to print series of odd number.
 #include <stdio.h>
 
 int main()

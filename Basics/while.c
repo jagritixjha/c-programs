@@ -1,8 +1,10 @@
+// Program to demonstarte use while looping statements.
+
 #include <stdio.h>
 int main()
 {
-  int a = 30;
-  while (a < 20)
+  int a = 3;
+  while (a <= 10)
   {
     printf("the vale of a is %d\n", a);
     a++;
