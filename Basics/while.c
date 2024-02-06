@@ -6,7 +6,7 @@ int main()
   int a = 3;
   while (a <= 10)
   {
-    printf("the vale of a is %d\n", a);
+    printf("the value of a is %d\n", a);
     a++;
   }
   return 0;
