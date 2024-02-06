@@ -33,3 +33,14 @@
 #### ✨ operator-logical.c
 ![image](https://github.com/jagritixjha/C-language/assets/152506173/7542a08d-b8ac-47e8-9ccc-fc17b5abca2c)
 
+#### ✨ pattern.c
+![image](https://github.com/jagritixjha/C-language/assets/152506173/28ea08a5-2c65-45c5-8c5b-b0a75d75df95)
+
+#### ✨ print-array.c
+![image](https://github.com/jagritixjha/C-language/assets/152506173/a78f01d3-8ea1-40c3-a8e9-4870e4c72c3e)
+
+#### ✨ seriesOfOddNum.c
+![image](https://github.com/jagritixjha/C-language/assets/152506173/dcb2af55-250d-4089-acbe-b510e48c87d1)
+
+#### ✨ switch.c
+![image](https://github.com/jagritixjha/C-language/assets/152506173/6e1a2eda-5be1-4019-a66a-5150a1b851de)
