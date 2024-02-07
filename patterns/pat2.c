@@ -6,19 +6,7 @@
 // 12
 // 1
 
-void case1(int n)
-{
-  for (int i = 0; i < n; i++) // loop for each iteration
-  {
-    for (int j = 1; j <= n - i; j++) // loop for printing 1 to 5
-    {
-      printf("%d", j);
-    }
-    printf("\n");
-  }
-}
-
-void case2(int n) // sir's logic
+void case2(int n) // another approch
 {
   for (int i = n; i >= 1; i--)
   {
@@ -37,8 +25,6 @@ int main()
   scanf("%d", &n);
 
   case2(n);
-  puts("");
-  case1(n);
 
   return 0;
 }
