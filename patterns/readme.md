@@ -5,3 +5,5 @@
 #### ✨ pat2.c
 ![image](https://github.com/jagritixjha/C-language/assets/152506173/6c2a18fd-0aa6-4386-a1b3-8f36cb4ec6d8)
 
+#### ✨ pat3.c
+![image](https://github.com/jagritixjha/C-language/assets/152506173/79dde52a-53e4-4f4a-9bf6-ea3d13369e59)
