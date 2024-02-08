@@ -48,5 +48,3 @@
 #### ✨ variable.c
 ![image](https://github.com/jagritixjha/C-language/assets/152506173/58496c9e-f0cf-47ec-b79a-1eb56667b6aa)
 
-#### ✨ while.c
-![image](https://github.com/jagritixjha/C-language/assets/152506173/90cc7677-e3bf-4ea9-9aec-1dde1ac9cd66)
