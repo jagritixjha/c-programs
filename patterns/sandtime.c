@@ -54,15 +54,6 @@ int main()
 
       if (j == 1 || j == i || i == n)
       {
-
-        // if (j <= 9)
-        // {
-        //   printf(" %d", j);
-        // }
-        // else
-        // {
-        //   printf("%d",j);
-        // }
         printf("* ", j);
       }
       else
