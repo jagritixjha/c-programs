@@ -1,4 +1,6 @@
 # Ouputs of the programs
+#### ✨ palindro.c
+![image](https://github.com/jagritixjha/C-language/assets/152506173/fbcee78e-01c1-4ee9-bdab-3ad5314e8520)
 
 #### ✨ pat1.c
 ![image](https://github.com/jagritixjha/C-language/assets/152506173/85d20ac4-a18d-41ba-92f2-53bfb1191f8a)
