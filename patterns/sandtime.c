@@ -20,27 +20,27 @@ int main()
   printf("enter the number of lines : ");
   scanf("%d", &n);
 
-  // for (i = n; i < 1; i--)
-  // {
-  //   for (j = 1; j <= n - i; j++)
-  //   {
-  //     printf(" ");
-  //   }
+  for (i = n; i >= 1; i--)
+  {
+    for (j = n - i; j >= 1; j--)
+    {
+      printf(" ");
+    }
 
-  //   for (j = 1; j <= i; j++)
-  //   {
+    for (j = 1; j <= i; j++)
+    {
 
-  //     if (j == 1 || j == i || i == n)
-  //     {
-  //       printf("* ", j);
-  //     }
-  //     else
-  //     {
-  //       printf("  ");
-  //     }
-  //   }
-  //   printf("\n");
-  // }
+      if (j == 1 || j == i || i == n)
+      {
+        printf("* ", j);
+      }
+      else
+      {
+        printf("  ");
+      }
+    }
+    printf("\n");
+  }
 
   for (i = 1; i <= n; i++)
   {
