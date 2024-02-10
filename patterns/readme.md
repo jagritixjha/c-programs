@@ -24,3 +24,8 @@
 #### ✨ pat7.c
 ![image](https://github.com/jagritixjha/C-language/assets/152506173/e7194840-3dea-4b05-9b6f-5f1df60851be)
 
+#### ✨ pat8.c
+![image](https://github.com/jagritixjha/C-language/assets/152506173/1a47e37f-b56c-4ea3-9115-cbb92917f20d)
+
+#### ✨ sandtime.c
+![image](https://github.com/jagritixjha/C-language/assets/152506173/f52addf6-6650-48ff-a880-cda2fae0cd0e)
