@@ -1,4 +1,7 @@
 # Ouputs of the programs
+#### ✨ palindro.c
+![image](https://github.com/jagritixjha/C-language/assets/152506173/fbcee78e-01c1-4ee9-bdab-3ad5314e8520)
+
 #### ✨ pat1.c
 ![image](https://github.com/jagritixjha/C-language/assets/152506173/85d20ac4-a18d-41ba-92f2-53bfb1191f8a)
 
@@ -16,3 +19,15 @@
 
 #### ✨ pat5.c
 ![image](https://github.com/jagritixjha/C-language/assets/152506173/d3aa099f-4dac-46c0-824a-4bfde2d62df1)
+
+#### ✨ pat6.c
+![image](https://github.com/jagritixjha/C-language/assets/152506173/db2bc349-dba8-4ea4-8d09-14586084e46d)
+
+#### ✨ pat7.c
+![image](https://github.com/jagritixjha/C-language/assets/152506173/e7194840-3dea-4b05-9b6f-5f1df60851be)
+
+#### ✨ pat8.c
+![image](https://github.com/jagritixjha/C-language/assets/152506173/1a47e37f-b56c-4ea3-9115-cbb92917f20d)
+
+#### ✨ sandtime.c
+![image](https://github.com/jagritixjha/C-language/assets/152506173/f52addf6-6650-48ff-a880-cda2fae0cd0e)
