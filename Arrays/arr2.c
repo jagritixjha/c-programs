@@ -1,5 +1,13 @@
 // program to print sum of array elements,
-// using a preprocessor directive to declare array size.
+// use a preprocessor directive to declare array size.
+
+/*
+  #define is a preprocessor directive that is used to define macros.
+  A macro is a name given to a piece of code, so whenever the compiler encounters a macro in a program, it will replace it with the macro value.
+
+  Syntax:
+  #define macro_name value
+*/
 
 #include <stdio.h>
 #define SIZE 60
