@@ -1,3 +1,5 @@
+//  program to sort an array in an ascending order.
+
 #include <stdio.h>
 
 int main()
