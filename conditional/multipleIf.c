@@ -1,4 +1,4 @@
-// mathematical operations using multiple if conditions
+// mathematical operations using multiple if conditions.
 
 #include <stdio.h>
 
