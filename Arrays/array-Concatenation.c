@@ -1,3 +1,5 @@
+// program to concatenate two arrays into another array.
+
 #include <stdio.h>
 
 int main()
