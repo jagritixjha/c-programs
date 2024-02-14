@@ -16,7 +16,7 @@
 ![image](https://github.com/jagritixjha/C-language/assets/152506173/a950dca6-e6a6-4e13-b869-f073f3ac1288)
 
 #### ✨ array-Concatenation.c
-![image](https://github.com/jagritixjha/C-language/assets/152506173/8140bf73-eefa-413d-a9bb-2917a16b67f7)
+![image](https://github.com/jagritixjha/C-language/assets/152506173/56619648-05f9-4b02-99eb-3743ba934411)
 
 #### ✨ array-as-a-function.c
 ![image](https://github.com/jagritixjha/C-language/assets/152506173/73d5b921-55a8-41d3-b190-a7bdefcf0835)
