@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void printArray(int *arr[], int n);
+void printArray(int arr[], int n);
 
 int main()
 {
@@ -10,7 +10,7 @@ int main()
   return 0;
 }
 
-void printArray(int *arr[], int n)
+void printArray(int arr[], int n)
 {
   for (int i = 0; i < n; i++)
   {

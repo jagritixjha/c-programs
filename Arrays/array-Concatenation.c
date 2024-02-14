@@ -13,7 +13,7 @@ int main()
     scanf("%d", &a[i]);
   }
 
-  printf("Enter size of array 2: ");
+  printf("\nEnter size of array 2: ");
   scanf("%d", &s2);
   int b[s2];
   for (i = 0; i < s2; i++)
@@ -34,6 +34,7 @@ int main()
     c[s1 + i] = b[i];
   }
 
+  printf("Concatened array:\n");
   for (i = 0; i < s3; i++)
   {
     printf("\nc[%d] = %d", i, c[i]);
