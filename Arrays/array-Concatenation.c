@@ -34,7 +34,7 @@ int main()
     c[s1 + i] = b[i];
   }
 
-  printf("\nConcatened array:");
+  printf("Concatened array:\n");
   for (i = 0; i < s3; i++)
   {
     printf("\nc[%d] = %d", i, c[i]);
