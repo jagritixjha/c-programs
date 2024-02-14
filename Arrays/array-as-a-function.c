@@ -1,3 +1,5 @@
+// program to demonstrate passing array as an argument.
+
 #include <stdio.h>
 
 void printArray(int arr[], int n);
