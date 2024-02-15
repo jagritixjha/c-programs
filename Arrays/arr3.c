@@ -1,9 +1,11 @@
+//  program to print largest element, smallest element, sum of all elements & average of array.
+
 #include <stdio.h>
 #define size 60
 
 int main()
 {
-  int a[size], i, n, sum, max, min;
+  int a[size], i, n, sum, largest, smallest;
 
   printf("Enter the no. elements: ");
   scanf("%d", &n);
@@ -16,20 +18,20 @@ int main()
   }
 
   sum = 0;
-  max = min = a[1];
+  largest = smallest = a[1];
 
   for (i = 1; i <= n; i++)
   {
-    if (max < a[i])
+    if (largest < a[i])
     {
-      max = a[i];
+      largest = a[i];
     }
-    if (min > a[i])
+    if (smallest > a[i])
     {
-      min = a[i];
+      smallest = a[i];
     }
     sum += a[i];
   }
-  printf("The max = %d, min = %d and avg = %.2f", max, min, (float)sum / n);
+  printf("The largest = %d, smallest = %d and avg = %.2f", largest, smallest, (float)sum / n);
   return 0;
 }
