@@ -1,3 +1,5 @@
+// program to take input as 2d array & print that 2d array, use preprocessor directive for array size.
+
 #include <stdio.h>
 #define r 3
 #define c 3
@@ -16,7 +18,7 @@ int main()
     }
   }
 
-  printf("Elements entered:\n");
+  printf("\nElements entered:\n");
   for (i = 0; i < r; i++)
   {
     for (j = 0; j < c; j++)
