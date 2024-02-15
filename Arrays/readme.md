@@ -10,7 +10,7 @@
 ![image](https://github.com/jagritixjha/C-language/assets/152506173/69925429-e17c-41da-b858-3c9d7679b65b)
 
 #### ✨ arr3.c
-![image](https://github.com/jagritixjha/C-language/assets/152506173/a950dca6-e6a6-4e13-b869-f073f3ac1288)
+![image](https://github.com/jagritixjha/C-language/assets/152506173/69601d7e-6ca1-4f5d-8365-ee7d4c212865)
 
 #### ✨ array-Concatenation.c
 ![image](https://github.com/jagritixjha/C-language/assets/152506173/56619648-05f9-4b02-99eb-3743ba934411)
