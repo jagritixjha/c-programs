@@ -18,5 +18,8 @@
 #### ✨ array-as-a-function.c
 ![image](https://github.com/jagritixjha/C-language/assets/152506173/73d5b921-55a8-41d3-b190-a7bdefcf0835)
 
+#### ✨ array2d.c
+![image](https://github.com/jagritixjha/C-language/assets/152506173/f9ff0250-7558-4bfa-a213-9f2e5be006d2)
+
 #### ✨ arrays.c
 ![image](https://github.com/jagritixjha/C-language/assets/152506173/76ab34c5-6523-408e-baa6-8ebf5c9e87da)
