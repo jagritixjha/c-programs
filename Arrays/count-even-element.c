@@ -1,3 +1,5 @@
+//  program to print total number of even elements in an array a an array.
+
 #include <stdio.h>
 
 int main()

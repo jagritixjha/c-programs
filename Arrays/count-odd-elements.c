@@ -1,3 +1,5 @@
+//  program to print total number of odd elements in an array a an array.
+
 #include <stdio.h>
 
 void printOdd(int n, int a[]);
@@ -5,7 +7,6 @@ void printOdd(int n, int a[]);
 int main()
 {
   int a[50], i, n;
-  printf("2227010701049\n");
 
   printf("Enter the number of elements: ");
   scanf("%d", &n);
