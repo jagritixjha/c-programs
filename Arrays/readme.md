@@ -1,4 +1,4 @@
-# Ouputs of the programs
+  # Ouputs of the programs
 
 #### ✨ accessing-array-elements.c
 ![image](https://github.com/jagritixjha/C-language/assets/152506173/2e4413f4-433a-4d67-acce-1d4effb0c289)
@@ -23,3 +23,12 @@
 
 #### ✨ arrays.c
 ![image](https://github.com/jagritixjha/C-language/assets/152506173/76ab34c5-6523-408e-baa6-8ebf5c9e87da)
+
+#### ✨ count-even-element.c
+![image](https://github.com/jagritixjha/C-language/assets/152506173/70ed7069-cdab-4b99-92b5-5657154306cb)
+
+#### ✨ count-odd-element.
+![image](https://github.com/jagritixjha/C-language/assets/152506173/439023fc-6b31-45f6-8db3-5f6c49cb07b0)
+
+#### ✨ decending-order.c
+![image](https://github.com/jagritixjha/C-language/assets/152506173/e0c525d7-3793-46c7-b046-96c8c2b4b955)
