@@ -32,3 +32,15 @@
 
 #### ✨ decending-order.c
 ![image](https://github.com/jagritixjha/C-language/assets/152506173/e0c525d7-3793-46c7-b046-96c8c2b4b955)
+
+#### ✨ deletion-operation.c
+![image](https://github.com/jagritixjha/C-language/assets/152506173/6a02ac45-0e3a-49c0-8f21-db7a591cc77c)
+
+#### ✨ find-largest-number-from-two-dimensional-array.c
+![image](https://github.com/jagritixjha/C-language/assets/152506173/c8f78923-b935-4744-8376-528ff6c359ff)
+
+#### ✨ find-smallest-number-from-two-dimensional-array.c
+![image](https://github.com/jagritixjha/C-language/assets/152506173/904fde39-318e-439b-9541-4897588cbb3c)
+
+
+
