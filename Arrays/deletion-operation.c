@@ -23,10 +23,10 @@ void main()
     temp = temp + 1;
   }
   n = n - 1;
-  printf("print array elements:\n");
+  printf("print array elements:");
   for (i = 0; i < n; i++)
   {
-    printf("a[%d] = %d\n", i, a[i]);
+    printf("a[%d]=%d\n", i, a[i]);
   }
   getch();
 }
