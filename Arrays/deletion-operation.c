@@ -11,7 +11,7 @@ void main()
   printf("enter array elements\n");
   for (i = 0; i < n; i++)
   {
-    printf("a[%d]=", i);
+    printf("a[%d] = ", i);
     scanf("%d", &a[i]);
   }
   printf("enter the pos you want to delete:\n");
@@ -23,10 +23,10 @@ void main()
     temp = temp + 1;
   }
   n = n - 1;
-  printf("print array elements:");
+printf("array elements after deletion:\n");
   for (i = 0; i < n; i++)
   {
-    printf("a[%d]=%d\n", i, a[i]);
+    printf("a[%d] = %d\n", i, a[i]);
   }
   getch();
 }
