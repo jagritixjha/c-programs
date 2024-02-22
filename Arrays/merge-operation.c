@@ -1,40 +1,42 @@
-#include <stdio.h>
-#include <conio.h>
+//  program to merge of two arrays into first array.
 
-void main()
+#include <stdio.h>
+
+int main()
 
 {
-  int a[50], b[50], m, n, i, j;
-  printf("2227010701049\n");
-  printf("Enter the size of array a and b;\n");
+  int m, n, i, j;
+  printf("Enter the size of array a and b: ");
+  scanf("%d %d", &m, &n);
 
-  scanf("%d%d", &m, &n);
-  printf("Enter array elements a:\n");
+  int a[m], b[n];
 
+  printf("Enter elements array of a:\n");
   for (i = 0; i < m; i++)
   {
-    printf("a[%d]=", i);
+    printf("a[%d] = ", i);
     scanf("%d", &a[i]);
   }
 
-  printf("Enter array elements b:\n");
+  printf("Enter elements of array b:\n");
   for (j = 0; j < n; j++)
   {
-    printf("b[%d]=", j);
+    printf("b[%d] = ", j);
     scanf("%d", &b[j]);
   }
 
-  for (j = 0; j < n; j++)
+  int s = m;
+  m += n;
+
+  for (i = s, j = 0; i < m && j < n; i++, j++)
   {
     a[i] = b[j];
-    i++;
   }
 
-  printf("Merge array a:\n");
-  for (i = 0; i < m + n; i++)
+  printf("Merged array a:\n");
+  for (i = 0; i < m; i++)
   {
-    printf("%d", a[i]);
+    printf("a[%d] = %d\n", i, a[i]);
   }
-
-  getch();
+  return 0;
 }
