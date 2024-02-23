@@ -47,3 +47,6 @@
 
 #### ✨ merge-operation.c
 ![image](https://github.com/jagritixjha/C-language/assets/152506173/dc184eef-ef53-4751-a212-238f7b1a7301)
+
+#### ✨ multiply-two-matrices.c
+![image](https://github.com/jagritixjha/C-language/assets/152506173/ea7c9f5a-adac-44ab-ba4f-852fd42a862e)
