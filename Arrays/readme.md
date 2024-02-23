@@ -42,11 +42,5 @@
 #### ✨ find-smallest-number-from-two-dimensional-array.c
 ![image](https://github.com/jagritixjha/C-language/assets/152506173/904fde39-318e-439b-9541-4897588cbb3c)
 
-#### ✨ insertion-operation.c
-![image](https://github.com/jagritixjha/C-language/assets/152506173/209c7f49-8eed-4b1e-a2d0-b63f82b2b526)
 
-#### ✨ merge-operation.c
-![image](https://github.com/jagritixjha/C-language/assets/152506173/dc184eef-ef53-4751-a212-238f7b1a7301)
 
-#### ✨ multiply-two-matrices.c
-![image](https://github.com/jagritixjha/C-language/assets/152506173/ea7c9f5a-adac-44ab-ba4f-852fd42a862e)
