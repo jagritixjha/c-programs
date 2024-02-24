@@ -56,3 +56,6 @@
 
 #### ✨ print-two-dimensional-array.c
 ![image](https://github.com/jagritixjha/C-language/assets/152506173/53425a89-af07-471c-9283-07380c307d8b)
+
+#### ✨ read-and-print-three-dimensional-array.c
+![image](https://github.com/jagritixjha/C-language/assets/152506173/8a61810c-3b54-440d-8483-8ab4b6a06932)
