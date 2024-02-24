@@ -54,4 +54,5 @@
 #### ✨ multiply-two-matrices.c
 ![image](https://github.com/jagritixjha/C-language/assets/152506173/ea7c9f5a-adac-44ab-ba4f-852fd42a862e)
 
-
+#### ✨ print-two-dimensional-array.c
+![image](https://github.com/jagritixjha/C-language/assets/152506173/53425a89-af07-471c-9283-07380c307d8b)
