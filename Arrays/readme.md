@@ -59,3 +59,6 @@
 
 #### ✨ read-and-print-three-dimensional-array.c
 ![image](https://github.com/jagritixjha/C-language/assets/152506173/8a61810c-3b54-440d-8483-8ab4b6a06932)
+
+#### ✨ reverse-array.c
+![image](https://github.com/jagritixjha/C-language/assets/152506173/49d66489-d8db-493f-b0a5-3b71e3047cc7)
