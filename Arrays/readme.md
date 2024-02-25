@@ -62,3 +62,25 @@
 
 #### ✨ reverse-array.c
 ![image](https://github.com/jagritixjha/C-language/assets/152506173/49d66489-d8db-493f-b0a5-3b71e3047cc7)
+
+#### ✨ search-opera-multiple-occurence.c
+![image](https://github.com/jagritixjha/C-language/assets/152506173/f0385b7b-491e-45b7-8a2d-2748996e7246)
+
+#### ✨ search-operation.c
+![image](https://github.com/jagritixjha/C-language/assets/152506173/470ac620-51c4-459e-9f11-e8df09783853)
+
+#### ✨2d-search-opera-multiple-occurence.c
+![image](https://github.com/jagritixjha/C-language/assets/152506173/2b5fb740-0f1d-4898-9d43-a56192a3d4fa)
+![image](https://github.com/jagritixjha/C-language/assets/152506173/d97b4da0-59b2-485e-917d-9b0fce739de6)
+
+#### ✨ store-fibonacci-numbers.c
+![image](https://github.com/jagritixjha/C-language/assets/152506173/1f344473-fc22-4182-8376-a64d35b4ded8)
+
+#### ✨ store-table-of-2-and-3.c
+![image](https://github.com/jagritixjha/C-language/assets/152506173/d2cf85cc-4be9-43e5-a3c5-8f3f5ddc0c67)
+
+#### ✨ subtract-two-3X3-Matrices.c
+![image](https://github.com/jagritixjha/C-language/assets/152506173/658a24bb-ff17-49ec-9ac3-08deb48c1308)
+
+#### ✨ traversal-operation-of-one-dimensional-array.c
+![image](https://github.com/jagritixjha/C-language/assets/152506173/b544a6a1-bb1d-45fc-9b72-e47424abfd12)
