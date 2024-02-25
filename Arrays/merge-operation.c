@@ -25,10 +25,9 @@ int main()
     scanf("%d", &b[j]);
   }
 
-  int s = m;
   m += n;
 
-  for (i = s, j = 0; i < m && j < n; i++, j++)
+  for (i = m - n, j = 0; i < m && j < n; i++, j++)
   {
     a[i] = b[j];
   }
