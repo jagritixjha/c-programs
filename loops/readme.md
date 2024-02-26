@@ -1,5 +1,7 @@
 # Output of the programs
 
+#### ✨ ascii-values.c
+![image](https://github.com/jagritixjha/C-language/assets/152506173/7b43d38d-df7a-4ef8-aa5c-47505fe61297)
 
 #### ✨ dowhile.c
  ![image](https://github.com/jagritixjha/C-language/assets/152506173/63b657a7-b6a2-415b-8937-bb5ac333a818)
