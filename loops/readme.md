@@ -21,4 +21,3 @@
 
 #### ✨ while.c
 ![image](https://github.com/jagritixjha/C-language/assets/152506173/6e0b7575-dcc4-4bad-b3a5-7bc6a6bf9d84)
-
