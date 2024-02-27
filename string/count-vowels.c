@@ -15,7 +15,6 @@ int main()
       count++;
     }
   }
-  // printf("%s", ptr);
-  printf("No. of vowels in '%s' is %d.\n", str, count);
+  printf("No. of vowels in %s is %d.", str, count);
   return 0;
 }
