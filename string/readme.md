@@ -27,3 +27,34 @@
 
 #### ✨ printable-ascii.c
 ![image](https://github.com/jagritixjha/c-programming/assets/152506173/b5232538-db66-4987-95aa-079319d3c433)
+
+#### ✨ puts.c
+![image](https://github.com/jagritixjha/c-programming/assets/152506173/e452cea2-7125-486f-8f9d-e44d7aa63270)
+
+#### ✨ salted-pass.c
+![image](https://github.com/jagritixjha/c-programming/assets/152506173/1539f57a-2775-4e0c-b12d-7d35c4e48c81)
+
+#### ✨ slice-str.c
+![image](https://github.com/jagritixjha/c-programming/assets/152506173/f2293f4c-0860-4977-ae42-3bdf61aaf315)
+
+#### ✨ store-str-char-by-char.c
+![image](https://github.com/jagritixjha/c-programming/assets/152506173/214e0515-1b2b-40b2-80c0-40d3449b843c)
+
+#### ✨ strcat.c
+![image](https://github.com/jagritixjha/c-programming/assets/152506173/414dd238-f314-417f-b15e-91c0650029b4)
+
+#### ✨ strCmp.c
+![image](https://github.com/jagritixjha/c-programming/assets/152506173/72dfd7d9-e7fe-4322-a16e-efd230adf415)
+![image](https://github.com/jagritixjha/c-programming/assets/152506173/b2fc2fce-32e8-446f-b8a5-93d42544d5b1)
+
+#### ✨ strcpy.c
+![image](https://github.com/jagritixjha/c-programming/assets/152506173/2c2fc65e-c1e9-4834-99d2-5aa68644f67a)
+
+#### ✨ strFunc.c
+![image](https://github.com/jagritixjha/c-programming/assets/152506173/3c44f87a-512c-4d73-9890-28da0f7a1620)
+
+#### ✨ strrev.c
+![image](https://github.com/jagritixjha/c-programming/assets/152506173/d98a20d8-492e-47c9-9747-a41306d51fc5)
+
+#### ✨ strupr.c
+![image](https://github.com/jagritixjha/c-programming/assets/152506173/3e2f0ff1-2ae5-49a9-b3f8-cda7bd52c9f2)
