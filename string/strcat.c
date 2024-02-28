@@ -29,20 +29,20 @@ void strCatFunc() // built-in function
 void strCatLogic() // while loop
 {
   int i = 0, j = 0;
-  while (x[i] != NULL)
+  while (x[i] != '\0')
   {
     i++;
   }
   // printf("i = %d\n", i);
 
-  while (y[j] != NULL)
+  while (y[j] != '\0')
   {
     x[i] = y[j];
     i++; // or it could be written as  x[i++] = y[j++];
     // printf("i = %d\n", i);
     j++;
   }
-  x[i] = NULL;
+  x[i] = '\0';
   printf("The Concatenated string: %s", x);
 }
 
@@ -55,6 +55,6 @@ void strCatLogic2() // for loop
   {
     x[i] = y[j];
   }
-  x[i] = NULL;
+  x[i] = '\0';
   printf("The Concatenated string: %s", x);
 }

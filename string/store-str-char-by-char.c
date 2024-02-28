@@ -4,17 +4,17 @@
 
 int main()
 {
-  char str[20];
+  char str[50];
   char ch;
   int i;
-  // while (ch != '\n')
+  // while (ch != '\n') // using while loop
   // {
   //   scanf("%c", &ch);
   //   str[i] = ch;
   //   i++;
   // }
 
-  for (i = 0; i < 19; i++)
+  for (i = 0; i < 50; i++)
   {
     scanf("%c", &ch);
     if (ch == '\n')
@@ -23,10 +23,8 @@ int main()
     }
     str[i] = ch;
   }
-  printf("%d\n", i);
-
   str[i] = '\0';
-  puts(str);
   printf("%s", str);
+  // puts(str); // another way
   return 0;
 }

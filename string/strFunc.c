@@ -14,12 +14,12 @@ void strcompare();
 int main()
 {
   // IOfunc();
-  // strPtr();
+  strPtr();
   // strLength();
   // countLength();
   // strcopy();
   // strconcatenation();
-  strcompare();
+  // strcompare();
   return 0;
 }
 

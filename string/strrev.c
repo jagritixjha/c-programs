@@ -18,9 +18,8 @@ int main()
 void strrev1() // pseudo reverse
 {
   int i, len;
-  for (len = 0; x[len] != NULL; len++)
+  for (len = 0; x[len] != '\0'; len++)
     ;
-  printf("len = %d", len);
   for (i = len - 1; i >= 0; i--)
   {
     printf("%c", x[i]);
@@ -31,7 +30,7 @@ void strrev2()
 {
   char temp;
   int i, j, len;
-  for (len = 0; x[len] != NULL; len++)
+  for (len = 0; x[len] != '\0'; len++)
     ;
   for (i = 0, j = len - 1; i < len / 2; i++, j--)
   {

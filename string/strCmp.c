@@ -14,9 +14,9 @@ int main()
   gets(x);
   printf("Enter string y: ");
   gets(y);
-  strCmpFunc(); // built-in function strcmp() / strcmpi()
+  // strCmpFunc(); // built-in function strcmp() / strcmpi()
   // strCmpLogic(x, y); // logic using loop
-  // strCmpiLogic(x, y); // logic using loop
+  strCmpiLogic(x, y); // logic using loop
   return 0;
 }
 

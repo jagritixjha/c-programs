@@ -6,18 +6,20 @@
 int main()
 {
 
-  char str[20];
+  char str[100];
   char newstr[20];
   int i, j = 0, n, m;
-  printf("Enter the String: ");
-  scanf("%s", str);
-  printf("Enter the no. from where u want to slice the string:");
+
+  printf("Enter the string: ");
+  fgets(str, 100, stdin);
+  printf("Enter the start number: ");
   scanf("%d", &n);
-  printf("Enter the no. till where u want to slice the arr:");
+  printf("Enter the end number: ");
   scanf("%d", &m);
-  for (i = n; i <= m; i++, j++)
+
+  for (i = n; i <= m; i++)
   {
-    newstr[j] = str[i];
+    newstr[j++] = str[i];
   }
   newstr[j] = '\0';
   printf("Sliced string: %s", newstr);
