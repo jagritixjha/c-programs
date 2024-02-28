@@ -21,6 +21,7 @@ int main()
   return 0;
 }
 
+// function to sort and display 5 names entered by the user in dictionary order.
 void case1()
 {
   for (i = 0; i <= 3; i++) // passes
@@ -49,13 +50,14 @@ void case1()
   }
 }
 
+// function to sorts and displays 5 user-entered names in case-insensitive lexicographical order
 void case2()
 {
   for (i = 0; i <= 3; i++)
   {
     for (j = 0; j <= 3; j++)
     {
-      if (strcmpi(x[j], x[j + 1]) < 0)
+      if (strcmpi(x[j], x[j + 1]) > 0)
       {
         strcpy(temp, x[j]);
         strcpy(x[j], x[j + 1]);
@@ -68,5 +70,11 @@ void case2()
       printf("%s ", x[k]);
     }
     printf("\n");
+  }
+
+  puts("The dictionary wise sort : ");
+  for (i = 0; i < 5; i++)
+  {
+    puts(x[i]);
   }
 }
