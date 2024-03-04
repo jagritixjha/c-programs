@@ -9,7 +9,7 @@ int main()
   float price;
   printf("Enter the price: ");
   scanf("%f", &price);
-  printf("final price: %f", calculatePrice(price));
+  printf("final price: %.3f", calculatePrice(price));
   return 0;
 }
 
