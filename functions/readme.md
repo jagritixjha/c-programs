@@ -25,9 +25,13 @@
 ![image](https://github.com/jagritixjha/c-programming/assets/152506173/547bb4be-3896-44b7-b5a6-9cc554642829)
 
 #### ✨ function-with-no-argument-and-a-return-value.c
+![image](https://github.com/jagritixjha/c-programming/assets/152506173/a6044459-d22d-4f2f-a8cd-80f3ba90a4e5)
 
 #### ✨ function-with-no-argument-and-no return-value.c
+![image](https://github.com/jagritixjha/c-programming/assets/152506173/3689fb9a-0680-4c62-972e-3eaece59315d)
 
 #### ✨ math-function.c
+![image](https://github.com/jagritixjha/c-programming/assets/152506173/e1d1923d-ce0a-4289-845e-94c52f51b500)
 
 #### ✨ percnetage.c
+![image](https://github.com/jagritixjha/c-programming/assets/152506173/65b9aebf-c80a-4fc7-9b0d-71b368b54e82)
