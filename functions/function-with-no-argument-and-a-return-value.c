@@ -1,10 +1,11 @@
+// Program to check if a number is prime using a function to get input
+
 #include <stdio.h>
 int getInteger();
 
 int main()
 {
   int n, i, flag = 0;
-  printf("2227010701049\n");
   // no argument is passed
   n = getInteger();
   // 0 and 1 are not prime numbers

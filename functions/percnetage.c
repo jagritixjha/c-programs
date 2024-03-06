@@ -1,3 +1,5 @@
+// Program to calculate the percentage based on marks in Maths, English, and Science.
+
 #include <stdio.h>
 
 float percentage(float x, float y, float z);

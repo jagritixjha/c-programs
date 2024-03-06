@@ -1,3 +1,5 @@
+// Program to calculate the square of a number using a custom function.
+
 #include <stdio.h>
 #include <conio.h>
 // #include <math.h>
@@ -10,7 +12,6 @@ int square(int num)
 void main()
 {
   int num, result;
-  printf("2227010701049\n");
   printf("Enter a number: ");
   scanf("%d", &num);
   result = square(num);
