@@ -8,16 +8,16 @@ int main()
 {
   float maths, eng, sci;
 
-  printf("enter the marks of the following subjects:\nMaths:");
+  printf("enter the marks of the following subjects:\nMaths: ");
   scanf("%f", &maths);
 
-  printf("English:");
+  printf("English: ");
   scanf("%f", &eng);
 
-  printf("Science:");
+  printf("Science: ");
   scanf("%f", &sci);
 
-  printf("percentage:%.2f", percentage(maths, eng, sci));
+  printf("percentage : %.2f", percentage(maths, eng, sci));
   return 0;
 }
 
