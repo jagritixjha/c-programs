@@ -35,3 +35,19 @@
 
 #### ✨ percnetage.c
 ![image](https://github.com/jagritixjha/c-programming/assets/152506173/65b9aebf-c80a-4fc7-9b0d-71b368b54e82)
+
+#### ✨ print-table.c
+![image](https://github.com/jagritixjha/c-programming/assets/152506173/dbb930da-bd9c-4549-8a15-a6a31660149f)
+
+#### ✨ program-for-fetching-function-address-using-call-by-value.c
+![image](https://github.com/jagritixjha/c-programming/assets/152506173/aa2c7809-6a8e-4e8e-9ca9-cc8a9cff8c30)
+
+#### ✨ string-function-to-compare-string.c
+![image](https://github.com/jagritixjha/c-programming/assets/152506173/56275886-b076-4fa9-aa64-7a958e798338)
+
+#### ✨ Swapping-the-values-of-the-two-variables-using-call-by-value.c
+![image](https://github.com/jagritixjha/c-programming/assets/152506173/bfffcd84-6803-45a0-8ebf-85d103d169c4)
+
+#### ✨ Swapping-the-values-of-the-two-variables-using-call-by-value02.c
+![image](https://github.com/jagritixjha/c-programming/assets/152506173/f5eed27b-633a-489d-9aa1-e63948d926f7)
+
