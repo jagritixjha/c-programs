@@ -8,10 +8,10 @@ void main()
   char s1[40];
   char s2[20];
 
-  printf("enter s1:");
+  printf("enter s1: ");
   scanf("%s", &s1);
 
-  printf("enter s2:");
+  printf("enter s2: ");
   scanf("%s", &s2);
 
   if (strcmp(s1, s2) == 0)

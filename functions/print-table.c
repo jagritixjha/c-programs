@@ -7,7 +7,7 @@ void printtable(int n);
 int main()
 {
   int n;
-  printf("Enter the number:");
+  printf("Enter the number: ");
   scanf("%d", &n);
   printtable(n);
   return 0;
