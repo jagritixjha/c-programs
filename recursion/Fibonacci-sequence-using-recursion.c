@@ -5,7 +5,6 @@ int fibonacci();
 int main()
 {
   int result = fibonacci(6);
-  printf("2227010701049\n");
   printf("Fibonacci: %d\n", result); // Output: Fibonacci: 8
   return 0;
 }

@@ -11,7 +11,6 @@ int gcd(int a, int b)
 int main()
 {
   int result = gcd(12, 18);
-  printf("2227010701049\n");
   printf("GCD: %d\n", result); // Output: GCD: 6
   return 0;
 }

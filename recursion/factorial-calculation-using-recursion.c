@@ -4,7 +4,6 @@ int factorial(int n);
 
 int main()
 {
-  printf("2227010701049\n");
   int result = factorial(5);
   printf("Factorial: %d\n", result); // Output: Factorial: 120
   return 0;
