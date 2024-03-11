@@ -7,10 +7,11 @@ int power(int base, int exponent)
   }
   return base * power(base, exponent - 1);
 }
-// Example usage
+
+
 int main()
 {
   int result = power(2, 4);
-  printf("Power: %d\n", result); // Output: Power: 16
+  printf("Power of 2 and 4: %d\n", result); // Output: Power: 16
   return 0;
 }

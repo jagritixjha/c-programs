@@ -7,10 +7,11 @@ int gcd(int a, int b)
   }
   return gcd(b, a % b);
 }
+
 // Example usage
 int main()
 {
   int result = gcd(12, 18);
-  printf("GCD: %d\n", result); // Output: GCD: 6
+  printf("GCD of 12 and 18: %d\n", result); // Output: GCD: 6
   return 0;
 }
