@@ -1,6 +1,9 @@
+// Program to find the nth Fibonacci number using recursion in C.
+
 #include <stdio.h>
 #include <math.h>
-int fibonacci(int n)
+    int
+    fibonacci(int n)
 {
   if (n <= 1)
   {

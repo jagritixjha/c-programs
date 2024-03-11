@@ -1,3 +1,5 @@
+// Program to find the Greatest Common Divisor(GCD) of two numbers using recursion
+
 #include <stdio.h>
 int gcd(int a, int b)
 {

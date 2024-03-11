@@ -1,3 +1,5 @@
+// Program to calculate the fibonacci of a number using recursion.
+
 #include <stdio.h>
 
 int fibonacci();

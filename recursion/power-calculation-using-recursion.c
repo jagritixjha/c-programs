@@ -1,5 +1,8 @@
+// Program to calculate the power of a number using recursion in C.
+
 #include <stdio.h>
-int power(int base, int exponent)
+    int
+    power(int base, int exponent)
 {
   if (exponent == 0)
   {
@@ -7,7 +10,6 @@ int power(int base, int exponent)
   }
   return base * power(base, exponent - 1);
 }
-
 
 int main()
 {

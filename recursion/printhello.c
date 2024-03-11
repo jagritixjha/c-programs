@@ -1,6 +1,9 @@
+// Program to print "hello world!" a given number of times using recursion in C.
+
 #include <stdio.h>
 
-void printhello(int count);
+    void
+    printhello(int count);
 
 int main()
 {

@@ -1,3 +1,5 @@
+// Program to calculate the sum of numbers from 1 to n using recursion in C.
+
 #include <stdio.h>
 
 int sum(int n);
