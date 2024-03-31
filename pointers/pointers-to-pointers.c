@@ -1,3 +1,5 @@
+//  Program to demonstrate the use of pointer to a pointer in accessing and displaying the value of an integer variable in C.
+
 #include <stdio.h>
 #include <conio.h>
 

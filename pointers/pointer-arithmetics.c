@@ -1,3 +1,5 @@
+//  Program to demonstrate pointer arithmetic across different data types (int, float, char) in C.
+
 #include <stdio.h>
 
 void case1();

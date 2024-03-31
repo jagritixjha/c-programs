@@ -1,3 +1,5 @@
+//  Program to calculate the sum of an array's elements using pointers.
+
 #include <stdio.h>
 
 void sum(int *p, int size)

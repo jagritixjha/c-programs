@@ -1,3 +1,5 @@
+//  Program to traverse and print array elements using pointer arithmetic in different cases in C.
+
 #include <stdio.h>
 
 int main()

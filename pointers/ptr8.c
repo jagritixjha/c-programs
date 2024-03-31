@@ -1,3 +1,5 @@
+//  Program to sort an array in descending order using pointer arithmetic in C.
+
 #include <stdio.h>
 
 void sort(int *p, int size)

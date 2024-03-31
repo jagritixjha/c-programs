@@ -1,3 +1,5 @@
+//  Program to return the sum of two integers using a function and pointers in C.
+
 #include <stdio.h>
 
 int add(int *x, int *y)

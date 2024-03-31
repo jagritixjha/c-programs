@@ -1,3 +1,5 @@
+//  Program to demonstrate the use of pointers to modify and access an integer variable in C.
+
 #include <stdio.h>
 
 int main()

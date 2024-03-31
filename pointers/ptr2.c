@@ -1,3 +1,5 @@
+//  Program to add two integers using pointers in C.
+
 #include <stdio.h>
 
 int main()

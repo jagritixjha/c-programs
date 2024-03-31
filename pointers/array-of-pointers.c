@@ -1,3 +1,5 @@
+//  Program to modify and display the values of variables using an array of pointers in C.
+
 #include <stdio.h>
 void main()
 {

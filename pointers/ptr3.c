@@ -1,3 +1,5 @@
+//  Program to add two integers using a function and pointers (call by reference) in C.
+
 #include <stdio.h>
 
 void add(int *x, int *y)

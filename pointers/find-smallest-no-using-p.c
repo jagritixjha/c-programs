@@ -1,3 +1,5 @@
+//  Program to find the smallest number in an array using pointers in C.
+
 #include <stdio.h>
 
 int main()

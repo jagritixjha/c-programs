@@ -1,3 +1,5 @@
+//  Program to demonstrate the use of array name as a pointer in C.
+
 #include <stdio.h>
 #include <conio.h>
 void main()

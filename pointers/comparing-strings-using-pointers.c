@@ -1,3 +1,5 @@
+//  Program to compare two strings without using the standard library function in C.
+
 #include <stdio.h>
 #include <conio.h>
 

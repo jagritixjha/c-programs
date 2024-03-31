@@ -1,3 +1,5 @@
+//  Program to add two numbers using a function that returns a pointer in C.
+
 #include <stdio.h>
 #include <stdlib.h> // Include the necessary header for malloc
 

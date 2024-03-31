@@ -1,3 +1,5 @@
+//  Program to swap two variables using double pointers (pointer to pointer) in C.
+
 #include <stdio.h>
 
 void swap(int **a, int **b)
