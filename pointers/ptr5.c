@@ -5,13 +5,13 @@
 
 int *add(int *x, int *y)
 {
-  // int *ans = malloc(sizeof(int)); // Allocate memory for the result
-  // if (ans == NULL)
-  // {
-  //   printf("Memory allocation failed\n");
-  //   exit(1); // Exit the program if memory allocation fails
-  // }
-  int *ans;
+  int *ans = malloc(sizeof(int)); // Allocate memory for the result
+  if (ans == NULL)
+  {
+    printf("Memory allocation failed\n");
+    exit(1); // Exit the program if memory allocation fails
+  }
+  // int *ans;
   *ans = *x + *y;
   // printf("%d\n", *ans);
   return ans;

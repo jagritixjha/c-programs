@@ -4,7 +4,7 @@
 
 int main()
 {
-  int numbers[5], min, i;
+  int numbers[7], min, i;
   int *ptr_numbers = numbers;
   printf("Enter 5 numbers:\n");
   for (i = 0; i < 5; i++)

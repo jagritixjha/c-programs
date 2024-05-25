@@ -14,7 +14,6 @@ int main()
   int x, y;
   int *px = &x, *py = &y;
   int **ppx = &px, **ppy = &py;
-  printf("2227010701049\n");
 
   printf("Enter two integers:\n");
   scanf("%d %d", &x, &y);

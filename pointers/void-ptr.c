@@ -5,10 +5,9 @@
 int main()
 {
   int num = 10;
-  float fnum = 3.14; 
+  float fnum = 3.14;
   char ch = 'a';
   void *ptr;
-  printf("2227010701049\n");
   ptr = &num;
   printf("Value of num: %d\n", *(int *)ptr);
 

@@ -23,7 +23,6 @@ int main()
     printf("%d  %u\n", *(p + i), (p + i));
   }
   printf("%d  %u\n", *p, p);
-  // printf("size of b = %d", sizeof(b));
 
   printf("\nCase 3 :   //Reverse \n");
   p = &b[9];

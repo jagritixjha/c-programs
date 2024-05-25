@@ -1,7 +1,7 @@
-//  Program to modify and display the values of variables using an array of pointers in C.
+//  Program to modify and display the values of var1iables using an array of pointers in C.
 
 #include <stdio.h>
-void main()
+int main()
 {
   int a, b, c;
   int *ptr[3];
@@ -21,5 +21,4 @@ void main()
   *ptr[2] += 10;
 
   printf("After adding 10\nvalue of a: %d, b: %d, c: %d\n", *ptr[0], *ptr[1], *ptr[2]);
-  getch();
 }

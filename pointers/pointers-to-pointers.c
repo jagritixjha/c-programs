@@ -9,7 +9,6 @@ void main()
   int *ptr1 = &value;
   int **ptr2 = &ptr1;
 
-  printf("2227010701049\n");
   printf("Value: %d\n", value);
   printf("Address of value: %p\n", &value);
   printf("Pointer to value: %p\n", ptr1);
