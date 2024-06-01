@@ -12,9 +12,17 @@ void main()
   // declaring and assigning the value to area
   float area = Area(radius);
   // Printing the area of circle
+<<<<<<< HEAD
   printf("Area of circle is %f\n", area);
 
   // Using radius as int data type
   int radiusInt = 5;
   printf("Area of circle is %f", Area(radiusInt));
+=======
+  printf("Area of circle is %.2f\n", area);
+
+  // Using radius as int data type
+  int radiusInt = 5;
+  printf("Area of circle is %.2f", Area(radiusInt));
+>>>>>>> 3f13764 (preprocessors programs)
 }
