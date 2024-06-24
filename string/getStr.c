@@ -8,6 +8,7 @@ int main()
   char name[50], lname[50];
   printf("Enter the name: ");
   gets(name);
+
   printf("Hello %s!\n", name);
 
   strupr(name);
