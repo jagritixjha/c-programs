@@ -9,13 +9,12 @@ int main()
   float price;
   printf("Enter the price: ");
   scanf("%f", &price);
-  printf("final price: %.3f", calculatePrice(price));
+  printf("Price after addition of gst: %.3f", calculatePrice(price));
   return 0;
 }
 
 float calculatePrice(float x)
 {
   float price = x + (0.18 * x);
-  // printf("Price after addition of gst: %f", newprice);
   return price;
 }
