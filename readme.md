@@ -20,4 +20,5 @@ This repository is designed to help beginners learn the fundamentals of C progra
 - Structures
 - File Handling
 - Error Handling
-- More topics will be added as I continue learning!
+
+**More topics will be added as I continue learning!**
