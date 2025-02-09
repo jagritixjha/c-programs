@@ -8,7 +8,7 @@ int main()
   // printf("enter numbers of elements: ");
   // scanf("%d", &n);
 
-  int arr[6] = {-2, 5, -8, 3, 0, 7};
+  int arr[6] = {1, 3, 5, 7, 9, 11};
 
   // for (i = 0; i < 6; i++)
   // {
@@ -19,14 +19,13 @@ int main()
   {
     if (arr[i] > max)
     {
-      // printf("i = %d\n", i);
       max = arr[i];
       j = i;
     }
   }
 
   arr[j] = -1;
-  max = 0;
+  max = -1;
 
   for (i = 0; i < 6; i++)
   {
