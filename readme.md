@@ -22,3 +22,4 @@ This repository is designed to help beginners learn the fundamentals of C progra
 - Error Handling
 
 **More topics will be added as I continue learning!**
+thank you!
