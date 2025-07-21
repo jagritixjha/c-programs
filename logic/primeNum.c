@@ -11,7 +11,6 @@ int main()
   {
     if (n % i == 0)
     {
-      // count++;
       flag = 0;
     }
   }

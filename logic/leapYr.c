@@ -1,21 +1,31 @@
 #include <stdio.h>
 
-int main()
+void main()
 {
-  int yr1, yr2, i;
-  printf("Enter the starting year: ");
-  scanf("%d", &yr1);
-  printf("Enter the ending year: ");
-  scanf("%d", &yr2);
+  int y;
+  printf("enter year: ");
+  scanf("%d", &y);
 
-  printf("Leap years between %d and %d are:\n", yr1, yr2);
-  for (i = yr1; i <= yr2; i++)
+  if ((y % 100 == 0 && y % 400 == 0) || (y % 4 == 0 && y % 100 != 0))
   {
-    if ((i % 400 == 0 && i % 100 == 0) || (i % 100 != 0 && i % 4 == 0))
-    {
-      printf("%d  ", i);
-    }
+    printf("leap year");
   }
+  else
+    printf("not a leap year");
 
-  return 0;
+  //// ==>> easy to understand logic ⬇️
+
+  /*   if (y % 100 == 0)
+    {
+      if (y % 400 == 0)
+        printf("century leap year");
+      else
+        printf("not a century leap year");
+    }
+    else if (y % 4 == 0)
+    {
+      printf("leap year");
+    }
+    else
+      printf("not a leap year"); */
 }

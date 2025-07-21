@@ -19,7 +19,7 @@ int main()
   for (i = 0; i < n; i++)
   {
     if (ptr[i] % 2 == 0)
-    {
+    { 
       printf("%d is even!\n", ptr[i]);
     }
     else
